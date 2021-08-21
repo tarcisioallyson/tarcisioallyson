@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarcisioallyson
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Python/Java
 - 💞️ I’m looking to collaborate on Open Source Project
 - 📫 How to reach me ...
 
