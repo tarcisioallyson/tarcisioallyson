@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarcisioallyson
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Java and Kotlin
 - 💞️ I’m looking to collaborate on Open Source Project
 - 📫 How to reach me ...
 
