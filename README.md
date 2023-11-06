@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarcisioallyson
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently frontend
 - 💞️ I’m looking to collaborate on Open Source Project
 - 📫 How to reach me ...
 
